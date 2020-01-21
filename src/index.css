@@ -35,6 +35,9 @@ ol, ul {
 .square:focus {
   outline: none;
 }
+.winner {
+  color:red;
+}
 
 .kbd-navigation .square:focus {
   background: #ddd;
